@@ -27,7 +27,7 @@ Team size: 1
 ---
 
 ### 🧮 Grade Management System (03/2025 – 05/2025)
-• Developed RESTful APIs using Spring MVC 
+• Developed RESTful APIs using Spring MVC  
 • Implemented forums and live chat powered by generative AI chatbot  
 • Student grade analytics & admin privileges  
 Tech: Spring MVC, React, MySQL  
