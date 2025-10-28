@@ -17,7 +17,7 @@ real-world systems using **Java Spring Boot, Django REST, Flask** and modern fro
 ### 🎯 Career Guidance System (07/2025 – Now)
 A web application providing personalized career predictions using a Machine Learning pipeline.  
 • Migrated from Grade Management System to a more scalable architecture  
-• Backend: Spring Boot | Frontend: Next.js + TypeScript  
+• Backend: Spring Boot + JPA| Frontend: Next.js + TypeScript  
 • ML service integration for recommendation  
 • Improved UX and student engagement features  
 🔗 Repo: https://github.com/lequangminh2623/StudentGradeManagement  
@@ -27,7 +27,7 @@ Team size: 1
 ---
 
 ### 🧮 Grade Management System (03/2025 – 05/2025)
-• Developed RESTful APIs using Spring MVC + JPA  
+• Developed RESTful APIs using Spring MVC 
 • Implemented forums and live chat powered by generative AI chatbot  
 • Student grade analytics & admin privileges  
 Tech: Spring MVC, React, MySQL  
