@@ -21,7 +21,7 @@ A web application providing personalized career predictions using a Machine Lear
 • ML service integration for recommendation  
 • Improved UX and student engagement features  
 🔗 Repo: https://github.com/lequangminh2623/StudentGradeManagement  
-Role: Fullstack Developer
+Role: Fullstack Developer  
 Team size: 1  
 
 ---
@@ -32,7 +32,7 @@ Team size: 1
 • Student grade analytics & admin privileges  
 Tech: Spring MVC, React, MySQL  
 🔗 Repo: https://github.com/lequangminh2623/GradeManagement  
-Role: Fullstack Developer
+Role: Fullstack Developer  
 Team size: 2
 
 ---
@@ -51,7 +51,7 @@ Team size: 2
 • Configurable rule system for administrators  
 • Backend: Flask | Frontend: HTML/CSS/JS  
 🔗 Repo: https://github.com/lequangminh2623/StudentManagement  
-Role: Fullstack Developer
+Role: Fullstack Developer  
 Team size: 3
 
 ---
